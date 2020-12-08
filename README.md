@@ -23,9 +23,6 @@ composer update hehongyuanlove/xxxxxxx
 - [Packagist](https://packagist.org/packages/hehongyuanlove/flarum-points)
 
 ### 安装说明
-
-- 删除 `migrations` 表中的 `2020_06_17_102253_add_points_to_users` `2020_06_17_081739_points_logs_table` 记录
-
   ```sh
     CREATE TABLE `gam_points_logs` (
     	`id` INT(10) UNSIGNED NOT NULL AUTO_INCREMENT,
@@ -55,5 +52,3 @@ composer update hehongyuanlove/xxxxxxx
     INSERT INTO `migrations` (`migration`, `extension`) VALUES ('2020_06_17_102253_add_points_to_users', 'niclalalla-points');
 
   ```
-- 删除原先的 `gam_points_logs` 表
-- 删除 `user` 表当中得 `points_probability` `points_count` 字段

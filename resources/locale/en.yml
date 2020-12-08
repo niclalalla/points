@@ -1,7 +1,7 @@
 goaskme-points:
   forum:
     user:
-      dropdown_label: GAM Wallet
+      dropdown_label: GAM Points
       convert_gam: 积分兑换
     request:
       submit: Submit

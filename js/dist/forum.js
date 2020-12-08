@@ -151,7 +151,7 @@ __webpack_require__.r(__webpack_exports__);
 
     if (!app.session.user && m.route() !== href) return;
     if (app.current.user && app.session.user.data.id !== app.current.user.data.id) return;
-    items.add('GoAskMePoints', flarum_components_LinkButton__WEBPACK_IMPORTED_MODULE_2___default.a.component({
+    items.add('GAM Points', flarum_components_LinkButton__WEBPACK_IMPORTED_MODULE_2___default.a.component({
       href: href,
       icon: 'fa fa-star'
     }, app.translator.trans('goaskme-points.forum.user.dropdown_label')), 85);

@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b45a155-03df-4ad3-8504-133d9d9dbcd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/dist/forum.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/dist/forum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/dist/forum.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/dist/forum.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/src/forum/addGoaskmePointsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/src/forum/addGoaskmePointsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/locale/en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/locale/en.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607413502263</updated>
       <workItem from="1607413503512" duration="1387000" />
-      <workItem from="1607416118618" duration="76000" />
+      <workItem from="1607416118618" duration="1536000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1607413569902</created>
@@ -57,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607414450693</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加安装说明">
+      <created>1607416204583</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607416204583</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,21 +76,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化" />
     <MESSAGE value="更新composer.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新composer.json" />
+    <MESSAGE value="添加安装说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加安装说明" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="558" y="87" key="CommitChangelistDialog2" timestamp="1607414449709">
+    <state x="558" y="87" key="CommitChangelistDialog2" timestamp="1607416203814">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607414449709" />
+    <state x="558" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607416203814" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607414577739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607414577739" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607414463972">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607416208324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607414463972" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607416208324" />
+    <state x="662" y="254" width="596" height="532" key="find.popup" timestamp="1607417593283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="254" width="596" height="532" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607417593283" />
     <state x="686" y="307" key="git4idea.merge.GitPullDialog" timestamp="1607414460353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

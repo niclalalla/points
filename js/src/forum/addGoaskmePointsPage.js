@@ -13,7 +13,7 @@ export default function() {
     if (app.current.user && app.session.user.data.id !== app.current.user.data.id) return
 
     items.add(
-      'GoAskMePoints',
+      'GAM Points',
       LinkButton.component({
         href,
         icon: 'fa fa-star'
