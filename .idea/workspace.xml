@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b45a155-03df-4ad3-8504-133d9d9dbcd1" name="Default Changelist" comment="" />
+    <list default="true" id="8b45a155-03df-4ad3-8504-133d9d9dbcd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -22,6 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -35,8 +40,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607413502263</updated>
-      <workItem from="1607413503512" duration="43000" />
+      <workItem from="1607413503512" duration="1387000" />
+      <workItem from="1607416118618" duration="76000" />
     </task>
+    <task id="LOCAL-00001" summary="初始化">
+      <created>1607413569902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607413569902</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新composer.json">
+      <created>1607414450693</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607414450693</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化" />
+    <MESSAGE value="更新composer.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新composer.json" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="87" key="CommitChangelistDialog2" timestamp="1607414449709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607414449709" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607414577739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607414577739" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607414463972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607414463972" />
+    <state x="686" y="307" key="git4idea.merge.GitPullDialog" timestamp="1607414460353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607414460353" />
   </component>
 </project>
