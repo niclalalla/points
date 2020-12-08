@@ -5,6 +5,13 @@
   "require": {
     "flarum/core": ">=0.1.0-beta.14 <0.1.0-beta.15"
   },
+  "authors": [
+    {
+      "name": "name",
+      "email": "name@163.com"
+    }
+  ],
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "GoAskMe\\Points\\": "src/"
